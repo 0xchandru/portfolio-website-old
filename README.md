@@ -1,13 +1,13 @@
 # 🚀 Chandraprakash C | Cybersecurity Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/chandraprakash87/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/chandruthehacker)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/0xchandru)
 [![Gmail](https://img.shields.io/badge/Email-cyberchandru87@gmail.com-red?logo=gmail)](mailto:cyberchandru87@gmail.com)
 
 ---
 
-### 🔗 New Portfolio: [Live Website](https://chandruthehacker.github.io)
-### 🔗 Old Portfolio: [Live Website](https://chandruthehacker.github.io/portfolio-website-old)
+### 🔗 New Portfolio: [Live Website](https://0xchandru.github.io)
+### 🔗 Old Portfolio: [Live Website](https://0xchandru.github.io/portfolio-website-old)
 
 ---
 
@@ -67,7 +67,7 @@ An intelligent CLI tool that:
   - Cron job injection & odd-hour logins
 
 **Tech Used**: Python, Pandas, Regex, Matplotlib, GeoIP  
-🔗 [View Project on GitHub »](https://github.com/chandruthehacker/log-parser)
+🔗 [View Project on GitHub »](https://github.com/0xchandru/log-parser)
 
 ---
 
@@ -84,7 +84,7 @@ Whether you're hiring, collaborating, or just geeking out about cybersecurity—
 
 📫 **Email**: [cyberchandru87@gmail.com](mailto:cyberchandru87@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/chandraprakash87](https://www.linkedin.com/in/chandraprakash87/)  
-💻 **GitHub**: [github.com/chandruthehacker](https://github.com/chandruthehacker)
+💻 **GitHub**: [github.com/0xchandru](https://github.com/0xchandru)
 
 ---
 
